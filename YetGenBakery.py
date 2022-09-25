@@ -71,7 +71,7 @@ def display_cikolatali_menu():
     "1.Profiterol": 15
 
     "2.Ekler": 17 """)
-  ##### ali başlıyor
+
 #DÖNGÜLER
   while 1:
 
@@ -146,7 +146,7 @@ def display_cupcake():
     total_hesap += 0
     print("TOPLAM HESAP: ",total_hesap)
   print()
-######## merve başlıyor
+
 
   tanecik = int(input("""
   Ne tür bir tanecik istiyorsunuz? 
@@ -220,7 +220,7 @@ def display_menu():
 
   print("-----YETGEN BAKERY'E HOŞ GELDİNİZ!-----\nSİPRAİŞ OLUŞTURMAK İÇİN BİLGİLERİNİZİ GİRİNİZ.")
 
-#son 
+
 #CLASS YAPISI
   class Personal():
     def __init__(self,isim,soyisim):
